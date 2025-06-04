@@ -10,7 +10,6 @@ This repository is a collection of small React projects I have built as part of 
 
 - **BgChanger:** An app that allows users to dynamically change the background color or image of the page.
 
-- [Add more projects here as you build them]
 
 ## Future Plans
 
