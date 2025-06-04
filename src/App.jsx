@@ -1,9 +1,9 @@
-import PassGenerator from './PassGenerator';
+import CurrencyConvertor from './CurrencyConvertor';
 
 function App() {
 
   return (
-    <PassGenerator />
+    <CurrencyConvertor />
   )
 }
 
